@@ -26,6 +26,45 @@
     "Name":"Chiesa San Pellegrino",
     "Note":""
     }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  13.2171489,37.578599 ]
+    },
+    "properties": {
+    "ID":3,
+    "Category":"Chiesa",
+    "Name":"Cattedrale Madrice",
+    "Note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  13.213812,37.578394 ]
+    },
+    "properties": {
+    "ID":4,
+    "Category":"Chiesa",
+    "Name":"Chiesa della Pietà",
+    "Note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  13.2171582,37.5777737 ]
+    },
+    "properties": {
+    "ID":5,
+    "Category":"Chiesa",
+    "Name":"Chiesa Sant'Agostino",
+    "Note":""
+    }
   }
 ]
 }
