@@ -65,6 +65,58 @@
     "Name":"Chiesa Sant'Agostino",
     "Note":""
     }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  13.217863,37.576511 ]
+    },
+    "properties": {
+    "ID":6,
+    "Category":"Chiesa",
+    "Name":"Chiesa dell'Itria",
+    "Note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  13.2156731,37.5772265 ]
+    },
+    "properties": {
+    "ID":7,
+    "Category":"Chiesa",
+    "Name":"Chiesa del Carmine",
+    "Note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  13.236186,37.564124 ]
+    },
+    "properties": {
+    "ID":8,
+    "Category":"Chiesa",
+    "Name":"Chiesa di Santa Maria di Montevergine",
+    "Note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  13.234780,37.558785 ]
+    },
+    "properties": {
+    "ID":9,
+    "Category":"Chiesa",
+    "Name":"Chiesa Colleggio di Maria",
+    "Note":""
+    }
   }
 ]
 }
