@@ -1,0 +1,42 @@
+[
+ {
+   "ID": 1,
+   "Category": "Chiesa",
+   "Name": "Chiesa Cappuccini",
+   "Latitude": 37.573536,
+   "Longitude": 13.214375,
+   "Note": ""
+ },
+ {
+   "ID": 2,
+   "Category": "Chiesa",
+   "Name": "Chiesa San Pellegrino",
+   "Latitude": 37.578253,
+   "Longitude": 13.209498,
+   "Note": ""
+ },
+ {
+   "ID": 3,
+   "Category": "Chiesa",
+   "Name": "Cattedrale Madrice",
+   "Latitude": 37.578599,
+   "Longitude": 13.2171489,
+   "Note": ""
+ },
+ {
+   "ID": 4,
+   "Category": "Chiesa",
+   "Name": "Chiesa della Pietà",
+   "Latitude": 37.578394,
+   "Longitude": 13.213812,
+   "Note": ""
+ },
+ {
+   "ID": 5,
+   "Category": "Chiesa",
+   "Name": "Chiesa Sant'Agostino",
+   "Latitude": 37.5777737,
+   "Longitude": 13.2171582,
+   "Note": ""
+ }
+]
