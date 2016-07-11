@@ -38,5 +38,37 @@
    "Latitude": 37.5777737,
    "Longitude": 13.2171582,
    "Note": ""
+ },
+ {
+   "ID": 6,
+   "Category": "Chiesa",
+   "Name": "Chiesa dell'Itria",
+   "Latitude": 37.576511,
+   "Longitude": 13.217863,
+   "Note": ""
+ },
+ {
+   "ID": 7,
+   "Category": "Chiesa",
+   "Name": "Chiesa del Carmine",
+   "Latitude": 37.5772265,
+   "Longitude": 13.2156731,
+   "Note": ""
+ },
+ {
+   "ID": 8,
+   "Category": "Chiesa",
+   "Name": "Chiesa di Santa Maria di Montevergine",
+   "Latitude": 37.564124,
+   "Longitude": 13.236186,
+   "Note": ""
+ },
+ {
+   "ID": 9,
+   "Category": "Chiesa",
+   "Name": "Chiesa Colleggio di Maria",
+   "Latitude": 37.558785,
+   "Longitude": 13.23478,
+   "Note": ""
  }
 ]
