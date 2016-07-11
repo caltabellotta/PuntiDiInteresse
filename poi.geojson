@@ -117,6 +117,19 @@
     "Name":"Chiesa Colleggio di Maria",
     "Note":""
     }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  13.234062,37.559088 ]
+    },
+    "properties": {
+    "ID":10,
+    "Category":"Chiesa",
+    "Name":"Chiesa Madrice Sant'Anna",
+    "Note":""
+    }
   }
 ]
 }
