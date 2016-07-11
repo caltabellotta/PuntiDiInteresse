@@ -70,5 +70,13 @@
    "Latitude": 37.558785,
    "Longitude": 13.23478,
    "Note": ""
+ },
+ {
+   "ID": 10,
+   "Category": "Chiesa",
+   "Name": "Chiesa Madrice Sant'Anna",
+   "Latitude": 37.559088,
+   "Longitude": 13.234062,
+   "Note": ""
  }
 ]
