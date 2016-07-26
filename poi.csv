@@ -10,7 +10,7 @@ ID,Category,Name,Latitude,Longitude,Note,Segnalato da
 9,Chiesa,Chiesa Colleggio di Maria,37.558785, 13.234780,,Opendata Caltabellotta
 10,Chiesa,Chiesa Madrice Sant'Anna,37.559088, 13.234062,,Opendata Caltabellotta
 11,POI,U Pirtusu,37.578380, 13.214235,,Paolo Fisco
-12,POI,Altare Sacrificale,,,,Vincenzo Pecorino
-13,POI,Castello Vecchio,,,,Vincenzo Pecorino
-14,POI,Ruderi chiesa di S.Benedetto,,,,Vincenzo Pecorino
-15,POI,Calvario,,,,Vincenzo Pecorino
+12,POI,Altare Sacrificale,37.578523, 13.219774,,,Vincenzo Pecorino
+13,POI,Castello Vecchio,37.579717, 13.218742,,Vincenzo Pecorino
+14,POI,Ruderi chiesa di S.Benedetto,37.575713, 13.209584,,Vincenzo Pecorino
+15,POI,Calvario,37.574776, 13.209831,,Vincenzo Pecorino
