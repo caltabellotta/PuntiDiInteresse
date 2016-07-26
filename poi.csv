@@ -1,11 +1,11 @@
-ID,Category,Name,Latitude,Longitude,Note
-1,Chiesa,Chiesa Cappuccini,37.573536, 13.214375,
-2,Chiesa,Chiesa San Pellegrino,37.578253, 13.209498,
-3,Chiesa,Cattedrale Madrice,37.578599, 13.2171489,
-4,Chiesa,Chiesa della Pietà,37.578394, 13.213812,
-5,Chiesa,Chiesa Sant'Agostino,37.5777737, 13.2171582,
-6,Chiesa,Chiesa dell'Itria,37.576511, 13.217863,
-7,Chiesa,Chiesa del Carmine,37.5772265, 13.2156731,
-8,Chiesa,Chiesa di Santa Maria di Montevergine,37.564124, 13.236186,
-9,Chiesa,Chiesa Colleggio di Maria,37.558785, 13.234780,
-10,Chiesa,Chiesa Madrice Sant'Anna,37.559088, 13.234062,
+ID,Category,Name,Latitude,Longitude,Note,Segnalato da
+1,Chiesa,Chiesa Cappuccini,37.573536, 13.214375,,Opendata Caltabellotta
+2,Chiesa,Chiesa San Pellegrino,37.578253, 13.209498,,Opendata Caltabellotta
+3,Chiesa,Cattedrale Madrice,37.578599, 13.2171489,,Opendata Caltabellotta
+4,Chiesa,Chiesa della Pietà,37.578394, 13.213812,,Opendata Caltabellotta
+5,Chiesa,Chiesa Sant'Agostino,37.5777737, 13.2171582,,Opendata Caltabellotta
+6,Chiesa,Chiesa dell'Itria,37.576511, 13.217863,,Opendata Caltabellotta
+7,Chiesa,Chiesa del Carmine,37.5772265, 13.2156731,,Opendata Caltabellotta
+8,Chiesa,Chiesa di Santa Maria di Montevergine,37.564124, 13.236186,,Opendata Caltabellotta
+9,Chiesa,Chiesa Colleggio di Maria,37.558785, 13.234780,,Opendata Caltabellotta
+10,Chiesa,Chiesa Madrice Sant'Anna,37.559088, 13.234062,,Opendata Caltabellotta
